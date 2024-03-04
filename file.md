@@ -1,4 +1,4 @@
-# # This might contain some eerors
+# # This might contain some eerors possbly
 
 * bad link? [foo)(bar.jpg]
 - Mixed list?
